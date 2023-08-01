@@ -1,0 +1,4 @@
+name: PluginModule
+version: '${project.version}'
+main: es.karmadev.examples.pluginmodule.Main
+api-version: '1.20'

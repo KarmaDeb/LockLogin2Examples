@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LockLogin2Examples.iml" filepath="$PROJECT_DIR$/LockLogin2Examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PluginModule/PluginModule.iml" filepath="$PROJECT_DIR$/PluginModule/PluginModule.iml" />
+    </modules>
+  </component>
+</project>

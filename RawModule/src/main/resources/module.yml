@@ -1,0 +1,14 @@
+name: 'RawModule'
+version: '1.0.0'
+main: es.karmadev.examples.rawmodule.Main
+description:
+  - "Raw LockLogin module, without"
+  - "depending on a plugin"
+authors: ['KarmaDev']
+permissions:
+  my.super.permission: false
+  my.other:
+    inheritance: true
+    children:
+      my.other.permission: true
+      my.other.subpermission: false
